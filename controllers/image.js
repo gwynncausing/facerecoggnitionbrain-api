@@ -1,5 +1,4 @@
 const Clarifai = require("clarifai");
-const { reset } = require("nodemon");
 
 const app = new Clarifai.App({
   apiKey: "88e6555fc3604cccbe84fa8a693103fe",
